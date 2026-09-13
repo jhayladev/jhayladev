@@ -57,7 +57,7 @@
 ---
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=2200&color=E8C468&center=true&vCenter=true&width=620&lines=You+are+my+person;T%C3%BA+decides+si+tu+d%C3%ADa+ser%C3%A1+incre%C3%ADble;Keep+building%2C+keep+growing;Every+bug+is+a+lesson+learned;Dream+it.+Code+it.+Ship+it." alt="Frases animadas" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=2200&color=E8C468&center=true&vCenter=true&width=620&lines=Ayla+Gonzales;You+are+my+person;T%C3%BA+decides+si+tu+d%C3%ADa+ser%C3%A1+incre%C3%ADble;Keep+building%2C+keep+growing;Every+bug+is+a+lesson+learned;Dream+it.+Code+it.+Ship+it." alt="Frases animadas" /></a>
 </p>
 
 <p align="center">
