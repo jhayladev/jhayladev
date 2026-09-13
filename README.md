@@ -21,37 +21,34 @@
 
 ---
 
-<table width="100%">
-  <tr>
-    <td align="left" width="170"><img src="./assets/web-tl.svg" width="150" alt="Telaraña superior izquierda" /></td>
-    <td></td>
-    <td align="right" width="170"><img src="./assets/web-tr.svg" width="150" alt="Telaraña superior derecha" /></td>
-  </tr>
-  <tr>
-    <td colspan="3" align="center">
-      <h2>Stack tecnológico</h2>
-      <p>
-        <img src="https://img.shields.io/badge/Python-E8C468?style=for-the-badge&logo=python&logoColor=0d0d1a" alt="Python" />
-        <img src="https://img.shields.io/badge/C%23-E8C468?style=for-the-badge&logo=csharp&logoColor=0d0d1a" alt="C Sharp" />
-        <img src="https://img.shields.io/badge/Blazor-E8C468?style=for-the-badge&logo=blazor&logoColor=0d0d1a" alt="Blazor" />
-        <img src="https://img.shields.io/badge/HTML5-E8C468?style=for-the-badge&logo=html5&logoColor=0d0d1a" alt="HTML5" />
-        <img src="https://img.shields.io/badge/CSS3-E8C468?style=for-the-badge&logo=css3&logoColor=0d0d1a" alt="CSS3" />
-        <img src="https://img.shields.io/badge/JavaScript-E8C468?style=for-the-badge&logo=javascript&logoColor=0d0d1a" alt="JavaScript" />
-        <br />
-        <img src="https://img.shields.io/badge/Java-7EC8E3?style=for-the-badge&logo=openjdk&logoColor=0d0d1a" alt="Java" />
-        <img src="https://img.shields.io/badge/TypeScript-7EC8E3?style=for-the-badge&logo=typescript&logoColor=0d0d1a" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/MySQL-7EC8E3?style=for-the-badge&logo=mysql&logoColor=0d0d1a" alt="MySQL" />
-        <img src="https://img.shields.io/badge/Power%20BI-7EC8E3?style=for-the-badge&logo=powerbi&logoColor=0d0d1a" alt="Power BI" />
-        <img src="https://img.shields.io/badge/Excel-E8C468?style=for-the-badge&logo=microsoftexcel&logoColor=0d0d1a" alt="Excel" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td align="left"><img src="./assets/web-bl.svg" width="150" alt="Telaraña inferior izquierda" /></td>
-    <td></td>
-    <td align="right"><img src="./assets/web-br.svg" width="150" alt="Telaraña inferior derecha" /></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="./assets/web-tl.svg" width="150" alt="Telaraña decorativa" />
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+  <img src="./assets/web-tr.svg" width="150" alt="Telaraña decorativa" />
+</p>
+
+<h2 align="center">Stack tecnológico</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-E8C468?style=for-the-badge&logo=python&logoColor=0d0d1a" alt="Python" />
+  <img src="https://img.shields.io/badge/C%23-E8C468?style=for-the-badge&logo=csharp&logoColor=0d0d1a" alt="C Sharp" />
+  <img src="https://img.shields.io/badge/Blazor-E8C468?style=for-the-badge&logo=blazor&logoColor=0d0d1a" alt="Blazor" />
+  <img src="https://img.shields.io/badge/HTML5-E8C468?style=for-the-badge&logo=html5&logoColor=0d0d1a" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-E8C468?style=for-the-badge&logo=css3&logoColor=0d0d1a" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-E8C468?style=for-the-badge&logo=javascript&logoColor=0d0d1a" alt="JavaScript" />
+  <br />
+  <img src="https://img.shields.io/badge/Java-7EC8E3?style=for-the-badge&logo=openjdk&logoColor=0d0d1a" alt="Java" />
+  <img src="https://img.shields.io/badge/TypeScript-7EC8E3?style=for-the-badge&logo=typescript&logoColor=0d0d1a" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/MySQL-7EC8E3?style=for-the-badge&logo=mysql&logoColor=0d0d1a" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Power%20BI-7EC8E3?style=for-the-badge&logo=powerbi&logoColor=0d0d1a" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Excel-E8C468?style=for-the-badge&logo=microsoftexcel&logoColor=0d0d1a" alt="Excel" />
+</p>
+
+<p align="center">
+  <img src="./assets/web-bl.svg" width="150" alt="Telaraña decorativa" />
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+  <img src="./assets/web-br.svg" width="150" alt="Telaraña decorativa" />
+</p>
 
 ---
 
