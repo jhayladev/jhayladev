@@ -22,9 +22,7 @@
 ---
 
 <p align="center">
-  <img src="./assets/web-tl-v2.svg" width="150" alt="Telaraña decorativa" />
-  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-  <img src="./assets/web-tr-v2.svg" width="150" alt="Telaraña decorativa" />
+  <img src="./assets/web-frame-top.svg" width="100%" alt="Telarañas decorativas" />
 </p>
 
 <h2 align="center">Stack tecnológico</h2>
@@ -45,9 +43,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/web-bl-v2.svg" width="150" alt="Telaraña decorativa" />
-  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-  <img src="./assets/web-br-v2.svg" width="150" alt="Telaraña decorativa" />
+  <img src="./assets/web-frame-bottom.svg" width="100%" alt="Telarañas decorativas" />
 </p>
 
 ---
