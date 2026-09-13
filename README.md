@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,50:1a1a2e,100:0d0d1a&height=230&section=header&text=%D8%B3%D9%84%D8%A7%D9%85%20Nu%C3%B1ez&fontSize=66&fontColor=e8c468&fontAlignY=38&desc=Desarrolladora%20%7C%20Automatizaci%C3%B3n%20%7C%20IA&descAlignY=59&descSize=20&animation=twinkling&stroke=7ec8e3&strokeWidth=2" width="100%" alt="سلام Nuñez" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,50:1a1a2e,100:0d0d1a&height=230&section=header&text=%D8%B3%D9%84%D8%A7%D9%85%20Nu%C3%B1ez&fontSize=66&fontColor=e8c468&fontAlignY=38&desc=Desarrollador%20%7C%20Automatizaci%C3%B3n%20%7C%20IA&descAlignY=59&descSize=20&animation=twinkling&stroke=7ec8e3&strokeWidth=2" width="100%" alt="سلام Nuñez" />
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="mailto:addununeznunezavila@gmail.com"><img src="https://img.shields.io/badge/Contactar-E8C468?style=for-the-badge&logo=gmail&logoColor=0d0d1a" alt="Enviar correo" /></a>
-  <a href="https://www.instagram.com/jhaalaldev_"><img src="https://img.shields.io/badge/Instagram-7EC8E3?style=for-the-badge&logo=instagram&logoColor=0d0d1a" alt="Instagram" /></a>
+  <a href="https://www.instagram.com/jhayladev_/"><img src="https://img.shields.io/badge/Instagram-7EC8E3?style=for-the-badge&logo=instagram&logoColor=0d0d1a" alt="Instagram @jhayladev_" /></a>
 </p>
 
 ---

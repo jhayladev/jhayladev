@@ -1,5 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 180" fill="none">
-  <defs><linearGradient id="s" x1="0" y1="0" x2="220" y2="180" gradientUnits="userSpaceOnUse"><stop stop-color="#F7E7A8" stop-opacity=".86"/><stop offset=".55" stop-color="#DDF5FF" stop-opacity=".64"/><stop offset="1" stop-color="#7EC8E3" stop-opacity=".18"/></linearGradient><g id="web" stroke="url(#s)" stroke-linecap="round"><path d="M2 2C48 8 116 17 216 2M2 2C9 47 17 113 2 176M2 2C42 44 92 94 164 164M2 2C17 58 38 112 72 176M2 2C58 17 112 38 176 72" stroke-width="1.3"/><path d="M18 5C25 28 22 47 11 67M47 8C57 37 52 63 30 91M82 13C96 49 88 81 58 118M123 19C137 63 126 102 88 149M6 18C28 25 47 22 67 11M8 47C37 57 63 52 91 30M13 82C49 96 81 88 118 58M19 123C63 137 102 126 149 88" stroke-width="1" opacity=".82"/><path d="M26 7C17 21 19 37 35 49C50 61 47 79 30 91M72 13C55 34 58 56 81 70C102 84 98 109 76 126M119 20C96 48 103 76 131 92C158 108 151 139 123 158" stroke="#7EC8E3" stroke-width="1.35" opacity=".6"/><circle cx="2" cy="2" r="3" fill="#F7E7A8" stroke="none"/></g></defs>
-  <use href="#web" transform="translate(0 180) scale(1 -1)"/>
-  <use href="#web" transform="translate(1200 180) scale(-1 -1)"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 220" fill="none">
+  <defs>
+    <linearGradient id="silk" x1="0" y1="0" x2="240" y2="220" gradientUnits="userSpaceOnUse"><stop stop-color="#FFF3B8"/><stop offset=".38" stop-color="#E8C468"/><stop offset=".72" stop-color="#B7E9F5"/><stop offset="1" stop-color="#7EC8E3" stop-opacity=".2"/></linearGradient>
+    <radialGradient id="aura" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse"><stop stop-color="#E8C468" stop-opacity=".34"/><stop offset="1" stop-color="#E8C468" stop-opacity="0"/></radialGradient>
+    <filter id="depth" x="-25%" y="-25%" width="150%" height="150%"><feGaussianBlur stdDeviation="3.5" result="blur"/><feColorMatrix in="blur" values="1 0 0 0 .3 0 1 0 0 .23 0 0 1 0 .05 0 0 0 .8 0" result="warm"/><feMerge><feMergeNode in="warm"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <g id="corner" filter="url(#depth)">
+      <circle cx="0" cy="0" r="235" fill="url(#aura)"/>
+      <g stroke="#153044" stroke-width="5" opacity=".55" stroke-linecap="round"><path d="M0 0L245 0M0 0L238 48M0 0L222 98M0 0L193 151M0 0L151 193M0 0L98 222M0 0L48 238M0 0L0 245"/></g>
+      <g stroke="url(#silk)" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M0 0L245 0M0 0L238 48M0 0L222 98M0 0L193 151M0 0L151 193M0 0L98 222M0 0L48 238M0 0L0 245" stroke-width="1.8"/>
+        <path d="M42 0Q46 25 30 44Q16 59 0 60M76 0Q86 34 64 63Q38 92 0 96M112 0Q128 46 96 87Q57 126 0 130M150 0Q170 59 128 110Q77 160 0 165M193 0Q217 73 159 132Q96 194 0 201M235 0Q260 90 190 157Q114 224 0 225" stroke="#F7E7A8" stroke-width="2.4" opacity=".84"/>
+        <path d="M42 0Q46 25 30 44Q16 59 0 60M76 0Q86 34 64 63Q38 92 0 96M112 0Q128 46 96 87Q57 126 0 130M150 0Q170 59 128 110Q77 160 0 165M193 0Q217 73 159 132Q96 194 0 201M235 0Q260 90 190 157Q114 224 0 225" stroke="#DDF5FF" stroke-width=".75" opacity=".9"/>
+        <circle cx="0" cy="0" r="4.5" fill="#FFF3B8" stroke="none"/><circle cx="76" cy="0" r="2.3" fill="#FFF3B8" stroke="none"/><circle cx="64" cy="63" r="2.3" fill="#DDF5FF" stroke="none"/><circle cx="128" cy="110" r="2.3" fill="#FFF3B8" stroke="none"/><circle cx="96" cy="194" r="2.3" fill="#DDF5FF" stroke="none"/>
+      </g>
+    </g>
+  </defs>
+  <use href="#corner" transform="translate(0 220) scale(1 -1)"/><use href="#corner" transform="translate(1200 220) scale(-1 -1)"/>
 </svg>
