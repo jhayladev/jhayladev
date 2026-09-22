@@ -10,8 +10,8 @@
 <h3 align="center">Construyo soluciones claras, útiles y escalables.</h3>
 
 <p align="center">
-  Estudiante de Programación y Diseño de Bases de Datos en el <b>SENA</b>.<br />
-  Me enfoco en automatización, desarrollo web e inteligencia artificial.
+  Estudiante de Programación.<br />
+  Me enfoco en automatización, desarrollo web e inteligencia artificial y muchísimo mas.
 </p>
 
 <p align="center">
